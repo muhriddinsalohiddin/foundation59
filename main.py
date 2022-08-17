@@ -11,3 +11,7 @@ def Tubmi(son):
         if son % i == 0:
             return False
     return True
+
+
+for i in range(10):
+    print(i)
