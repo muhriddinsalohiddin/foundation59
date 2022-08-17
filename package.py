@@ -1,0 +1,3 @@
+"""
+BU FAQAT TEST UCHUN YOZILDI
+"""
