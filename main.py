@@ -15,3 +15,8 @@ def Tubmi(son):
 
 for i in range(10):
     print(i)
+
+"""
+Kamoliddin ko'p telefonga berilmang foydasi yo'q
+
+"""
