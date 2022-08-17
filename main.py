@@ -18,5 +18,9 @@ for i in range(10):
 
 """
 Kamoliddin ko'p telefonga berilmang foydasi yo'q
-
 """
+
+if int(input("SON KIRITING"))%2==0:
+    print("JUFT")
+else:
+    print("TOQ")
